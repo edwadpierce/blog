@@ -1,12 +1,11 @@
 html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 #about { width: 50%; padding: 8px; }
-html { max-width: 70ch; }
-html { margin: auto; }
+body { max-width: 70ch; }
+body { margin: auto; }
 html { line-height: 1.4; }
 html { font-size: 1.25em; }
 h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
-img { max-width: 100%; height: auto; }
 html { color: #333; }
 html {
   background-image: url("/bettersteel.jpg"); 
