@@ -8,6 +8,6 @@ html { font-size: 1.25em; }
 h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
 img { max-width: 100%; height: auto; }
 html { color: #333; }
-html {
-  background-image: url("steel.jpg");
+body {
+  background-image: url("/steel.jpg");
 }
