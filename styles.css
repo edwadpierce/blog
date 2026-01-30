@@ -11,4 +11,7 @@ html { color: #333; }
 html {
   background-image: url("/steel.jpg");
 }
-body { background-color: white; }
+body { 
+  background-color: white; 
+  border-style: solid;
+}
