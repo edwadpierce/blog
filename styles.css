@@ -11,7 +11,7 @@ html { color: #333; }
 html {
   background-image: url("/bettersteel.jpg"); 
   background-repeat: no-repeat; 
-  background-size: auto; 
+  background-size: window.innerWidth window.innerHeight; 
 }
 body { 
   background-color: white; 
