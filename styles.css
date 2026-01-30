@@ -10,7 +10,7 @@ html { color: #333; }
 html {
   background-image: url("/bettersteel.jpg"); 
   background-repeat: repeat-y; 
-  background-size: cover; 
+  background-size: contain; 
 }
 body { 
   background-color: white; 
