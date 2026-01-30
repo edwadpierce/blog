@@ -9,8 +9,9 @@ h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
 html { color: #333; }
 html {
   background-image: url("/bettersteel.jpg"); 
-  background-repeat: repeat-y; 
-  background-size: contain; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-attachment: fixed; 
 }
 body { 
   background-color: white; 
